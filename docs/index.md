@@ -2,6 +2,8 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+Testing a sample update flow. This should reflect on deployed site after CI actions run. 
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
